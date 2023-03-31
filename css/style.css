@@ -1,12 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@700&display=swap');
+
 *{
     margin: 0px;
     padding: 0px;
+    font-family: Roboto Mono, sans-serif;
 }
 h1{
     color: red;
+    font-family: Roboto Mono, sans-serif;
 }
 
 p{
     color: blue;
     border-radius: 20;
+    font-family: Roboto Mono, sans-serif;
+}
+
+a{
+    border-radius: 20%;
+    font-family: Roboto Mono, sans-serif;
+}
+
+h3{
+    font-family: Roboto Mono, sans-serif;
 }
